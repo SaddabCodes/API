@@ -1,4 +1,4 @@
-# This is a Spring Boot application that provides RESTful services to manage employees. The application uses Java, Spring Boot, JPA, and MySQL.
+# This is a Spring Boot application that provides RESTful services to manage employees.
 
 ## Technologies Used
 
